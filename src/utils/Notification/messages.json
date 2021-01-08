@@ -1,0 +1,30 @@
+{
+  "selectFiles": {
+    "title": "Dica!",
+    "text": "Localize suas fotos clicando em uma das opções.",
+    "type": "info"
+  },
+  "facebookAlbums": {
+    "title": "Dica!",
+    "text": "Clique no álbum para exibir as fotos.",
+    "type": "info"
+  },
+  "facebookFiles": {
+    "title": "Dica!",
+    "text": "Clique nas fotos para selecionar em seguida clique no botão ABRIR SELECIONADAS.",
+    "type": "info"
+  },
+  "dashboard": {
+    "title": "Dica!",
+    "text": "Acesse o menu no canto direito para adicionar ou remover fotos.",
+    "type": "info"
+  },
+  "emptyOrder": {
+    "text": "É Necessário selecionar uma foto!",
+    "type": "warning"
+  },
+  "cancelOrder": {
+    "text": "Deseja Realmente Cancelar o Pedido?",
+    "type": "question"
+  }
+}
